@@ -22,6 +22,12 @@ body{
 			text-indent: -9999px;
 			}	
 
+#header a{
+			text-indent: -9999px;
+			display: block;
+			width: 976px;
+			height: 168px;
+			}
 /*---navigation---*/
 
 ul#links{
