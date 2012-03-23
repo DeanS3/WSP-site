@@ -105,6 +105,7 @@ a.button {
 		background:#0137ff;
 		width: 300px;
 		padding: 0 35px 0 75px;
+		text-align: left;
 		}
 .actions h3{
 		float: left;
@@ -119,7 +120,7 @@ a.button {
 		color: green;
 		padding: 5px;
 		border-radius: 10px;
-		margin: 20px 30px 5px 255px;
+		margin: 20px 30px 25px 155px;
 		}
 .actions h1#left{
 		margin: 50px 30px 50px 0;
